@@ -1,11 +1,11 @@
 package Java_Core.Course_Work;
 
-import Java_Core.Course_Work.ClassImpl.CRUDImpl;
-import Java_Core.Course_Work.ClassImpl.PrintingImpl;
-import Java_Core.Course_Work.ClassImpl.StatisticsImpl;
-import Java_Core.Course_Work.DAO.CRUD;
-import Java_Core.Course_Work.DAO.Printing;
-import Java_Core.Course_Work.DAO.Statistics;
+import Java_Core.Course_Work.impl.CRUDImpl;
+import Java_Core.Course_Work.impl.PrintingImpl;
+import Java_Core.Course_Work.impl.StatisticsImpl;
+import Java_Core.Course_Work.dao.CRUD;
+import Java_Core.Course_Work.dao.Printing;
+import Java_Core.Course_Work.dao.Statistics;
 
 public class EmployeeBook {
     private static final int SIZE = 10;

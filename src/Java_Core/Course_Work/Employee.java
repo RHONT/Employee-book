@@ -1,6 +1,6 @@
 package Java_Core.Course_Work;
 
-import Java_Core.Course_Work.Enum.Departments;
+import Java_Core.Course_Work.enums.Departments;
 
 import java.util.Objects;
 

@@ -1,7 +1,7 @@
-package Java_Core.Course_Work.DAO;
+package Java_Core.Course_Work.dao;
 
 import Java_Core.Course_Work.Employee;
-import Java_Core.Course_Work.Enum.Departments;
+import Java_Core.Course_Work.enums.Departments;
 
 public interface Statistics {
     Employee minSalary();

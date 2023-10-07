@@ -1,4 +1,4 @@
-package Java_Core.Course_Work.Enum;
+package Java_Core.Course_Work.enums;
 
 public enum Departments {
     NONE(0), HRD(1), ACCOUNTING(2), PRODUCTION(3), SALES(4), ANALYTICS(5);

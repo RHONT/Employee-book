@@ -1,9 +1,9 @@
-package Java_Core.Course_Work.ClassImpl;
+package Java_Core.Course_Work.impl;
 
-import Java_Core.Course_Work.DAO.CRUD;
+import Java_Core.Course_Work.dao.CRUD;
 import Java_Core.Course_Work.Employee;
 import Java_Core.Course_Work.EmployeeBook;
-import Java_Core.Course_Work.Enum.Departments;
+import Java_Core.Course_Work.enums.Departments;
 
 public class CRUDImpl implements CRUD {
     private Employee[] book;

@@ -1,10 +1,10 @@
-package Java_Core.Course_Work.ClassImpl;
+package Java_Core.Course_Work.impl;
 
-import Java_Core.Course_Work.DAO.Statistics;
+import Java_Core.Course_Work.dao.Statistics;
 import Java_Core.Course_Work.Employee;
 import Java_Core.Course_Work.EmployeeBook;
-import Java_Core.Course_Work.Enum.Departments;
-import Java_Core.Course_Work.Enum.MoreOrLess;
+import Java_Core.Course_Work.enums.Departments;
+import Java_Core.Course_Work.enums.MoreOrLess;
 
 public class StatisticsImpl implements Statistics {
 
